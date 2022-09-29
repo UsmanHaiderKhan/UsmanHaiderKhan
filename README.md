@@ -33,7 +33,7 @@
 
 - 📄 Know about my experiences [https://usman-portfolio.herokuapp.com/](https://usman-portfolio.herokuapp.com/)
 
-- ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
+- ⚡ Fun fact ** Other then Programming I would like to travel around the world and i like try new foodsI **
 
 <hr />
 <h3 align="left">Connect with me:</h3>
