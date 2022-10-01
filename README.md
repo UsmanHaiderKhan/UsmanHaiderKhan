@@ -59,6 +59,15 @@
 ### My Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   4 hrs 56 mins   █████████████████▓░░░░░░░   70.34 %
+HTML         2 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.45 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 
