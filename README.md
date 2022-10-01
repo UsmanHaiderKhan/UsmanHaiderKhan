@@ -49,14 +49,14 @@
 
 <hr />
 
-# 📊GitHub Stats :
+## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=UsmanHaiderKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UsmanHaiderKhan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanHaiderKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### My Coding Stats
+## ⏳My Coding Stats
 
 <!--START_SECTION:waka-->
 
