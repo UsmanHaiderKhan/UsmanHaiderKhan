@@ -61,9 +61,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       5 hrs 48 mins   █████████████████▒░░░░░░░   69.92 %
-Blade Template   2 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-SourceMap        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript       6 hrs 28 mins   █████████████████▓░░░░░░░   70.00 %
+Blade Template   2 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+SourceMap        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 PHP              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
