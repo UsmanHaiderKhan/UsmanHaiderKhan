@@ -61,10 +61,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       38 mins         ███████████▓░░░░░░░░░░░░░   46.30 %
-TypeScript       26 mins         ████████░░░░░░░░░░░░░░░░░   32.63 %
-Blade Template   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-CSS              5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+JavaScript       38 mins         █████████████▒░░░░░░░░░░░   53.57 %
+TypeScript       26 mins         █████████▒░░░░░░░░░░░░░░░   37.76 %
+CSS              5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
