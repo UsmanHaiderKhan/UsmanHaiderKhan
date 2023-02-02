@@ -61,8 +61,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       0 secs          ████████████████████████▒   96.80 %
-Blade Template   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
