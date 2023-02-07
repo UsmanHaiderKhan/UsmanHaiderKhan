@@ -61,8 +61,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       13 mins         █████████████████████████   99.87 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript       13 mins         █████████████████████████   99.69 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
