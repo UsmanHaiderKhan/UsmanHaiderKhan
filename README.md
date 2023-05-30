@@ -61,7 +61,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 mins          █████████████████████████   100.00 %
+HTML           22 mins         ████████▓░░░░░░░░░░░░░░░░   35.12 %
+TypeScript     17 mins         ███████░░░░░░░░░░░░░░░░░░   28.12 %
+Markdown       7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+JSON           6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+nx workspace   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 ```
 
 <!--END_SECTION:waka-->
