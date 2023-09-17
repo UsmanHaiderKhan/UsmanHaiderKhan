@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **🔥React, 🧺amazon database tier structure**
 
-- 💬 Ask me about Frontend Development ** MEAN | Angular | React | NextJs(13) **
+- 💬 Ask me about Frontend Development **MEAN | Angular | React | NextJs(13)**
 
 - 📫 How to reach me **usmanhaiderkhan4@gmail.com**
 
