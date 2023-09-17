@@ -17,15 +17,11 @@
 
 - 🌱 I’m currently learning **🔥React, 🧺amazon database tier structure**
 
-- 👯 I’m looking to collaborate on [Bizhub](https://beta.bizhub.gy/)
-
-- 👨‍💻 All of my projects are available at [https://usman-portfolio.herokuapp.com/](https://usman-portfolio.herokuapp.com/)
-
-- 💬 Ask me about **react, Asp.Net, Angular**
+- 💬 Ask me about Frontend Development ** MEAN | Angular | React | NextJs(13) **
 
 - 📫 How to reach me **usmanhaiderkhan4@gmail.com**
 
-- 📄 Know about my experiences [https://usman-portfolio.herokuapp.com/](https://usman-portfolio.herokuapp.com/)
+- 📄 Know about my experiences [https://usmanhaiderkhan.netlify.app/](https://usmanhaiderkhan.netlify.app/)
 
 - ⚡ Fun fact **Other then Programming I really like to travel around the world and try new foods**
 
