@@ -57,11 +57,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML              3 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   44.71 %
-SCSS              2 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.56 %
-TypeScript        2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-Project Details   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-yarn.lock         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript        2 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   35.06 %
+SCSS              2 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   32.40 %
+HTML              1 hr 59 mins    ███████▓░░░░░░░░░░░░░░░░░   30.81 %
+Text              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Project Details   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
