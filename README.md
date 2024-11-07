@@ -57,8 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   8 mins          ███████████████████████▓░   95.22 %
-TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
